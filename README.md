@@ -2,4 +2,4 @@
 
 APIs APP Terceiro tempo Resenha FC. Sumula, Escalação, cadastro de jogadores
 
-Desenvolvido por: Peterson Macedo e Alex Buttiele
+Desenvolvido por: Peterson Macedo e Alex Buttieile

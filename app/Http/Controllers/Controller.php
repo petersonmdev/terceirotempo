@@ -11,7 +11,7 @@ use Illuminate\Routing\Controller as BaseController;
  * @OA\Info(
  *      version="1.0.0",
  *      title="Terceiro Tempo Resenha",
- *      description="APIs APP Terceiro tempo Resenha FC. Sumula, Escalação, cadastro de jogadores. Desenvolvido por: Peterson Macedo e Alex Buttiele",
+ *      description="APIs APP Terceiro tempo Resenha FC. Sumula, Escalação, cadastro de jogadores. Desenvolvido por: Peterson Macedo e Alex Buttieile",
  *      @OA\Contact(
  *          name="Peterson Macedo",
  *          url="http://petersonmacedo.com.br",
