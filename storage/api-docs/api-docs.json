@@ -2,7 +2,7 @@
     "openapi": "3.0.0",
     "info": {
         "title": "Terceiro Tempo Resenha",
-        "description": "APIs APP Terceiro tempo Resenha FC. Sumula, Escalação, cadastro de jogadores",
+        "description": "APIs APP Terceiro tempo Resenha FC. Sumula, Escalação, cadastro de jogadores. Desenvolvido por: Peterson Macedo e Alex Buttiele",
         "contact": {
             "name": "Peterson Macedo",
             "url": "http://petersonmacedo.com.br",
